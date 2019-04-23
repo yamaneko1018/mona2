@@ -1,0 +1,15 @@
+current directory: /app/rails/sample/mona2/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/usr/local/rbenv/versions/2.6.0/bin/ruby -I /usr/local/rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20190422-21923-1lt2oq6.rb extconf.rb
+creating Makefile
+
+current directory: /app/rails/sample/mona2/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /app/rails/sample/mona2/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /app/rails/sample/mona2/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/bin/install -c -m 0755 websocket_mask.so ./.gem.20190422-21923-1u17sgw
